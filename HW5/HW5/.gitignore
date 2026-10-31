@@ -1,0 +1,6 @@
+.venv/
+.mplconfig/
+.ipython/
+.jupyter_runtime/
+.ipynb_checkpoints/
+.DS_Store
